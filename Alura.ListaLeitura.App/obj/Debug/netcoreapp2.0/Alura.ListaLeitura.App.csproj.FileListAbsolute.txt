@@ -1,4 +1,14 @@
+C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\HTML\HtmlUtils.cs
+C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Logica\CadastroLogica.cs
+C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Logica\LivrosLogica.cs
+C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Program.cs
+C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Repositorio\ILivroRepositorio.cs
+C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Repositorio\LivroRepositorioCSV.cs
+C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Repositorio\LivroRepositorioFake.cs
+C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Startup.cs
 C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\HTML\formulario.html
+C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\HTML\lista.html
+C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\HTML\para-ler.html
 C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Repositorio\livros.csv
 C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.deps.json
 C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.json
@@ -11,5 +21,3 @@ C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\ne
 C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
 C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
 C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.genruntimeconfig.cache
-C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csprojAssemblyReference.cache
-C:\Projetos\Edesoft\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\HTML\para-ler.html
