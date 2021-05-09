@@ -9,6 +9,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Alura.ListaLeitura.App.Logica
 {
@@ -22,10 +23,12 @@ namespace Alura.ListaLeitura.App.Logica
             return "O livro foi adicionado com sucesso";
         }
 
-        public static Task ExibeFormulario(HttpContext context)
+        public IActionResult ExibeFormulario()
         {
-            var html = HtmlUtils.CarregaArquivoHTML("formulario");
-            return context.Response.WriteAsync(html);
+
+            //var html = HtmlUtils.CarregaArquivoHTML("formulario");
+            var html = new ViewResult{ ViewName = "formulario" };
+            return html;
         }
     }
 }
